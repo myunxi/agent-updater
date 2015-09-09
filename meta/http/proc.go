@@ -2,7 +2,7 @@ package http
 
 import (
 	"fmt"
-	"gitcafe.com/ops/meta/store"
+	"github.com/gaojiasheng/agent-updater/meta/store"
 	"net/http"
 	"strings"
 	"time"

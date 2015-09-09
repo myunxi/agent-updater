@@ -1,7 +1,7 @@
 package g
 
 import (
-	"gitcafe.com/ops/common/model"
+	"github.com/gaojiasheng/agent-updater/common/model"
 	"log"
 	"strings"
 )

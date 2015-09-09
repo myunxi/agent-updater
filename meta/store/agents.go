@@ -1,7 +1,7 @@
 package store
 
 import (
-	"gitcafe.com/ops/common/model"
+	"github.com/gaojiasheng/agent-updater/common/model"
 	"sync"
 )
 

@@ -2,9 +2,9 @@ package http
 
 import (
 	"encoding/json"
-	"gitcafe.com/ops/common/model"
-	"gitcafe.com/ops/meta/g"
-	"gitcafe.com/ops/meta/store"
+	"github.com/gaojiasheng/agent-updater/common/model"
+	"github.com/gaojiasheng/agent-updater/meta/g"
+	"github.com/gaojiasheng/agent-updater/meta/store"
 	"log"
 	"net/http"
 )

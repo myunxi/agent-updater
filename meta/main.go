@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gitcafe.com/ops/meta/g"
-	"gitcafe.com/ops/meta/http"
-	"gitcafe.com/ops/meta/store"
+	"github.com/gaojiasheng/agent-updater/meta/g"
+	"github.com/gaojiasheng/agent-updater/meta/http"
+	"github.com/gaojiasheng/agent-updater/meta/store"
 	"log"
 	"os"
 )

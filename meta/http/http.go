@@ -2,7 +2,7 @@ package http
 
 import (
 	"encoding/json"
-	"gitcafe.com/ops/meta/g"
+	"github.com/gaojiasheng/agent-updater/meta/g"
 	"log"
 	"net/http"
 	_ "net/http/pprof"
