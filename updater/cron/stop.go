@@ -1,8 +1,8 @@
 package cron
 
 import (
-	"gitcafe.com/ops/common/model"
-	"gitcafe.com/ops/updater/g"
+	"github.com/gaojiasheng/agent-updater/common/model"
+	"github.com/gaojiasheng/agent-updater/updater/g"
 	"github.com/toolkits/file"
 	"log"
 	"path"

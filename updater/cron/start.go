@@ -2,8 +2,8 @@ package cron
 
 import (
 	"fmt"
-	"gitcafe.com/ops/common/model"
-	"gitcafe.com/ops/common/utils"
+	"github.com/gaojiasheng/agent-updater/common/model"
+	"github.com/gaojiasheng/agent-updater/common/utils"
 	"github.com/toolkits/file"
 	"log"
 	"os/exec"

@@ -3,9 +3,9 @@ package cron
 import (
 	"encoding/json"
 	"fmt"
-	"gitcafe.com/ops/common/model"
-	"gitcafe.com/ops/common/utils"
-	"gitcafe.com/ops/updater/g"
+	"github.com/gaojiasheng/agent-updater/common/model"
+	"github.com/gaojiasheng/agent-updater/common/utils"
+	"github.com/gaojiasheng/agent-updater/updater/g"
 	"github.com/toolkits/net/httplib"
 	"log"
 	"time"

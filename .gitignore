@@ -20,5 +20,6 @@ _go_export.*
 _testmain.go
 
 *.exe
+*.swp
 
 *cfg.json
